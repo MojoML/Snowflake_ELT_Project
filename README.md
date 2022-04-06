@@ -1,4 +1,4 @@
-# Snowflake_ETL_Project
+# Snowflake_ELT_Project
 
 ## Project Workflow
 
@@ -9,8 +9,7 @@ In the Staging Area, the Data is cleaned and transformed for Dimensional Modelin
 
 ## Solution Architecture
 
-<img width="1481" alt="image" src="https://user-images.githubusercontent.com/60922141/161927594-d78061fd-1d28-4a85-b796-5a32cd839827.png">
-
+<img width="1483" alt="image" src="https://user-images.githubusercontent.com/60922141/161989898-b409cd31-057d-4a3f-8b28-d6addf147cf7.png">
 
 ## Power BI Report
 
