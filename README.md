@@ -2,7 +2,7 @@
 
 ## Project Workflow
 
-A Snowpipe is initialized to sync with an Amazon S3 Bucket. Once Data about German Foreign Trade Statistics arrives in the Bucket a Copy Command is triggered in Snowflake, which extracts that Data into the Staging Area of the Data Warehouse. 
+A Snowpipe is initialized to sync with an **Amazon S3** Bucket. Once Data about **German Foreign Trade Statistics** arrives in the Bucket a Copy Command is triggered in **Snowflake**, which extracts that Data into the Staging Area of the Data Warehouse. 
 
 In the Staging Area, the Data is cleaned and transformed for Dimensional Modeling Purposes. Once the Dimension Tables and Fact Tables have been created, the Data is copied into another S3 Bucket for possible Machine Learning Applications. Furthermore, a Microsoft Power BI Report is created.
 
